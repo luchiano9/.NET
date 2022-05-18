@@ -1,2 +1,2 @@
-# .NET
-Trabajos prácticos realizados para la materia .NET (C#) durante el año 2020
+# Tp2GrupoPagVanSam
+Repositorio del TP2 Academia
